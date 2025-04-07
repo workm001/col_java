@@ -38,7 +38,6 @@ a:hover {
 pre {
     background: #161b22;
     padding: 10px;
-    padding: 10px;
     border-radius: 8px;
     overflow-x: auto;
     font-size: 14px;
@@ -48,7 +47,7 @@ pre {
 }
 pre:hover {
     box-shadow: 0px 0px 26px 2px #2c00ff30;
-  transition: all .7s cubic-bezier(.7, 0, .3, 1);
+    transition: all .7s cubic-bezier(.7, 0, .3, 1);
 }
 code {
     background: #161b22;
@@ -57,7 +56,6 @@ code {
     border-radius: 4px;
     font-size: 16px;
 }
-
 
 /* 🎨 Syntax Highlighting */
 .hljs {
@@ -186,7 +184,11 @@ summary {
     body {
         padding: 15px;
     }
-    pre > *{
-        font-size: 11px;
+    pre {
+        font-size: 12px; /* Smaller font size for code blocks */
+        padding: 8px; /* Adjust padding to save space */
+    }
+    code {
+        font-size: 14px; /* Smaller font size for inline code */
     }
 }

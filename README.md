@@ -1,6 +1,6 @@
 # 07.03.25
-## 1. Write a java program to check witch one is getter then bettween two numbers; 
-### File Name: col_1.java
+## 1. Write a java program to check witch one is getter then bettween two numbers.
+### File Name: `col_1.java`
 ```java
 import java.util.Scanner;
 public class whoIsBig{
@@ -22,8 +22,10 @@ System.out.print("Enter Secound Number:");
 
 }
 ```
-## 2. Write a java Program to cheack a number is Amstrong or not;
-### File Name: col_2.java
+> Easy code 
+## 2. Write a java Program to cheack a number is Amstrong or not.
+
+### File Name: `col_2.java`
 
 ```java 
 import java.util.Scanner;
@@ -69,3 +71,4 @@ col_2.java:21: error: variable noDig might not have been initialized
 error: compilation failed
 
 ```
+> Easy Code  
