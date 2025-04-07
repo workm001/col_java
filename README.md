@@ -1,5 +1,5 @@
 # 07.03.25
-## 1. Write a java program to check witch one is getter then bettween two numbers.
+> ## 1. Write a java program to check witch one is getter then bettween two numbers.
 ### File Name: `col_1.java`
 ```java
 import java.util.Scanner;
@@ -23,7 +23,8 @@ System.out.print("Enter Secound Number:");
 }
 ```
 > Easy code 
-## 2. Write a java Program to cheack a number is Amstrong or not.
+
+> ## 2. Write a java Program to cheack a number is Amstrong or not.
 
 ### File Name: `col_2.java`
 
