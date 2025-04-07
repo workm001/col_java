@@ -186,7 +186,7 @@ summary {
     body {
         padding: 15px;
     }
-    pre {
-        font-size: 13px;
+    pre > *{
+        font-size: 11px;
     }
 }
